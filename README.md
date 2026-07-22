@@ -74,6 +74,13 @@ The dashboard includes:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](Dashboard%20Screenshot.jpeg)
+
+---
+
+
 ## Files Included
 
 - Walmart Sales Dashboard.xlsx
